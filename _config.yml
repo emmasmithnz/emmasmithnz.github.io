@@ -60,14 +60,11 @@ plugins:
 author:
   name   : "Emma Smith"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : ""
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+    - label: "Facebook"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.facebook.com/emmasmith.newzealand"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"

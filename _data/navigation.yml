@@ -7,3 +7,10 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Services"
+    url: /services/
+  - title: "Equines"
+    url: /equines/
+  - title: "Contact"
+    url: /contact/
+    
