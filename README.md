@@ -1,3 +1,23 @@
+# Edit Locally
+
+you need to;
+
+1. in the terminal window below...
+2. make sure you're 'in' the web site folder you can use the ls command to list the files to be sure (you might need to use the cd command) Now, because youre using the VS Code Terminal it should be in the same folder as you website files by default
+3. You need to start the local verison of the website using the followeing command;
+
+bundle exec jekyll serve
+
+4. Then, in a browser window, go to...
+
+http://localhost:4000
+
+5.  Edit your website content and save - the changes should be visible in the browser
+
+6.  When youre done - use the GIT Source Control extension to commit your changes up to GitHub
+
+
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
