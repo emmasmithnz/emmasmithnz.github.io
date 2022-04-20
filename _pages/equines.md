@@ -16,7 +16,7 @@ Ripple has been apart of my team since Feburary 2020. Last season he placed seco
 
 **Brighton Rock**   -    16.0hh 6 year old Stationbred X Gelding
 
-![image-left](/assets/images/BrightonRock.JPG)
+![image-left](/assets/images/BrightonRock.jpg)
 
 Ronald joined my team in June 2021. I bought him as a project to bring on over winter, but quickly fell in love with his attitude and underlying talent. He is currently in his first season of competing and is proving to be a very smart jumper. He has picked up a fair few ribbons throughout the season as he stepped up to competing 1m. I look forward to seeing what he gets up to next season. 
 
