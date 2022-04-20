@@ -5,9 +5,6 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
----
----
-title: "Equines"
 excerpt: "These are my horses - ka pow"
 gallery:
   - url: /assets/images/BrightonRock.jpg
