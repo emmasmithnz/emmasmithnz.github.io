@@ -58,19 +58,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Emma Smith"
+  name   : "Emma Smith NZ"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://www.facebook.com/emmasmith.newzealand"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/emmasmith.nz"
 
 footer:
   links:
@@ -82,7 +79,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/emmasmith.nz"
 
 defaults:
   # _posts
