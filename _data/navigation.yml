@@ -11,4 +11,5 @@ main:
     url: /equines/
   - title: "Contact"
     url: /contact/
-    
+  - title: "Portfolio"
+    url: /portfolio/
