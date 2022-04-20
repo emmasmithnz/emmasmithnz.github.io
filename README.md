@@ -10,7 +10,7 @@ bundle exec jekyll serve
 
 4. Then, in a browser window, go to...
 
-http://localhost:4000
+
 
 5.  Edit your website content and save - the changes should be visible in the browser
 
