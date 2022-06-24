@@ -1,10 +1,4 @@
 var store = [{
-        "title": "The horses",
-        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
-        "tags": [],
-        "url": "/portfolio/something/",
-        "teaser": "/assets/images/BrightonRock.jpg"
-      },{
         "title": "Post: Horses",
         "excerpt":"The horses are horses  ","categories": ["Horse"],
         "tags": ["Post Formats","readability","standard"],
