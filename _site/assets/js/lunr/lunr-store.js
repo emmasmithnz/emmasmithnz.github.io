@@ -68,6 +68,12 @@ var store = [{
         "title": "The horses",
         "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
         "tags": [],
+        "url": "/services/something%20copy%206/",
+        "teaser": "/assets/images/BrightonRock.jpg"
+      },{
+        "title": "The horses",
+        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
+        "tags": [],
         "url": "/services/something%20copy/",
         "teaser": "/assets/images/BrightonRock.jpg"
       },{
