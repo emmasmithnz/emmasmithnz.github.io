@@ -117,6 +117,6 @@ tag_archive:
   path: /tags/
 
 collections:
-  portfolio:
+  services:
     output: true
     permalink: /:collection/:path/
