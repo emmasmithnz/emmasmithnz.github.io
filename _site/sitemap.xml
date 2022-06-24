@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/portfolio/something/</loc>
-<lastmod>2022-06-20T17:45:22+12:00</lastmod>
+<lastmod>2022-06-25T11:36:43+12:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/horse/post-modified/</loc>
@@ -48,7 +48,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio/</loc>
+<loc>http://localhost:4000/oldservices/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/services/</loc>
