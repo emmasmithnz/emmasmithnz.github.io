@@ -29,6 +29,14 @@
 <lastmod>2019-04-19T07:34:30+12:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/services/something%20copy/</loc>
+<lastmod>2022-06-25T11:46:56+12:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/services/something/</loc>
+<lastmod>2022-06-25T11:46:56+12:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
