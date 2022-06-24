@@ -24,7 +24,7 @@ Ronald joined my team in June 2021. I bought him as a project to bring on over w
 
 
 
-Capi joined the team in April 2022. He is a lovely young horse, already has a great attitude towards learning. It will be exciting to see him grow up and start being ridden undersaddle. I am hoping to start him around March 2023.
+Capi joined the team in April 2022. He is a lovely young horse, already has a great attitude towards learning. It will be exciting to see him grow up. He will be started undersaddle in 2023.
 
 **Indiana**     -    15hh 15 year old Thoroughbred Mare by Indian Danehill
 
