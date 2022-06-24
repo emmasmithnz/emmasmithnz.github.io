@@ -5,8 +5,8 @@ main:
     url: /categories/
   - title: "About"
     url: /about/
-  - title: "Services"
-    url: /services/
+  - title: "OldServices"
+    url: /oldservices/
   - title: "Equines"
     url: /equines/
   - title: "Contact"
