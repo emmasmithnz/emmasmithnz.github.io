@@ -100,10 +100,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _services
   - scope:
-      path: "_portfolio"
-      type: portfolio
+      path: "_services"
+      type: services
     values:
       layout: single
       author_profile: false
