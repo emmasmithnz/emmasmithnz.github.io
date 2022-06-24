@@ -1,8 +1,6 @@
 main:
   - title: "Blog"
     url: /posts/
-  - title: "Gallery"
-    url: /categories/
   - title: "About"
     url: /about/
   - title: "Equines"
