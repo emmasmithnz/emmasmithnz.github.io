@@ -2,8 +2,8 @@
 title: "The horses"
 excerpt: "These are my horses - ka pow"
 header:
-  image: /assets/images/BrightonRock.jpg
-  teaser: /assets/images/BrightonRock.jpg
+  image: /assets/images/Equissage1.jpg
+  teaser: /assets/images/Equissage1.jpg
 sidebar:
   - title: "Rider"
 gallery:

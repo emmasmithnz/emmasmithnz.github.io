@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Emma Smith NZ"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Logo.jpg"
   bio    : ""
   links:
     - label: "Facebook"
