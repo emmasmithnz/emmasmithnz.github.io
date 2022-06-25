@@ -598,7 +598,7 @@ blockquote.notice--danger { border-left-color: #d65652; }
 
 /* Priority plus navigation ========================================================================== */
 .greedy-nav { position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; min-height: 2em; background: #141010; }
-.greedy-nav a { display: block; margin: 0 1rem; color: #fff6fb; text-decoration: none; -webkit-transition: none; transition: none; }
+.greedy-nav a { display: block; margin: 0 1rem; color: green; text-decoration: none; -webkit-transition: none; transition: none; }
 .greedy-nav a:hover { color: #ccc5c9; }
 .greedy-nav a.site-logo { margin-left: 0; margin-right: 0.5rem; }
 .greedy-nav a.site-title { margin-left: 0; }
