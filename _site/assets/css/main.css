@@ -179,7 +179,7 @@ audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 /* Prevents modern browsers from displaying 'audio' without controls */
 audio:not([controls]) { display: none; }
 
-a { color: #f21368; }
+a { color: green; }
 
 /* Apply focus state */
 /* Remove outline from links */
@@ -256,8 +256,8 @@ blockquote cite { font-style: italic; }
 blockquote cite:before { content: "\2014"; padding-right: 5px; }
 
 /* links */
-a:visited { color: #b60e4e; }
-a:hover { color: #f54e8e; outline: 0; }
+a:visited { color: #006000; }
+a:hover { color: #40a040; outline: 0; }
 
 /* buttons */
 /* code */
@@ -287,7 +287,7 @@ figure.third figcaption { width: 100%; }
 /* Figure captions */
 figcaption { margin-bottom: 0.5em; color: #fff8fc; font-family: Georgia, Times, serif; font-size: 0.75em; }
 figcaption a { -webkit-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
-figcaption a:hover { color: #f54e8e; }
+figcaption a:hover { color: #40a040; }
 
 /* Fix IE9 SVG bug */
 svg:not(:root) { overflow: hidden; }
@@ -582,7 +582,7 @@ blockquote.notice--danger { border-left-color: #d65652; }
 .pagination ul { margin: 0; padding: 0; list-style-type: none; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; }
 .pagination li { display: block; float: left; margin-left: -1px; }
 .pagination li a { display: block; margin-bottom: 0.25em; padding: 0.5em 1em; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-size: 14px; font-weight: bold; line-height: 1.5; text-align: center; text-decoration: none; color: #fff8fc; border: 1px solid #323030; border-radius: 0; }
-.pagination li a:hover { color: #f54e8e; }
+.pagination li a:hover { color: #40a040; }
 .pagination li a.current, .pagination li a.current.disabled { color: #fff; background: #f21368; }
 .pagination li a.disabled { color: rgba(255, 248, 252, 0.5); pointer-events: none; cursor: not-allowed; }
 .pagination li:first-child { margin-left: 0; }
@@ -1015,7 +1015,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 .page__taxonomy strong { margin-right: 10px; }
 
 .page__taxonomy-item { display: inline-block; margin-right: 5px; margin-bottom: 8px; padding: 5px 10px; text-decoration: none; border: 1px solid #323030; border-radius: 4px; }
-.page__taxonomy-item:hover { text-decoration: none; color: #f54e8e; }
+.page__taxonomy-item:hover { text-decoration: none; color: #40a040; }
 
 .taxonomy__section { margin-bottom: 2em; padding-bottom: 1em; }
 .taxonomy__section:not(:last-child) { border-bottom: solid 1px #434040; }
