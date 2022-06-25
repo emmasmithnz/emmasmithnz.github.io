@@ -77,11 +77,11 @@ var store = [{
         "url": "/services/something%20copy%207/",
         "teaser": "/assets/images/BrightonRock.jpg"
       },{
-        "title": "The horses",
-        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
+        "title": "Equissage",
+        "excerpt":"  This text should show on the right of the image   ","categories": [],
         "tags": [],
         "url": "/services/something%20copy/",
-        "teaser": "/assets/images/Equissage1.jpg"
+        "teaser": "/assets/images/Equissage4.jpg"
       },{
         "title": "The horses",
         "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
