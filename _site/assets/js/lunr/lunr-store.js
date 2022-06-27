@@ -41,50 +41,50 @@ var store = [{
         "url": "/blog/welcome-to-jekyll/",
         "teaser": null
       },{
-        "title": "The horses",
-        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
+        "title": "Holiday Care",
+        "excerpt":"We offer boutique equine care when you need a break or are away on holiday. Our holiday services can include but are not limited to; feeding, rugging, exercising and more all tailored to your equines needs. Feel free to get in contact with us to see if our holiday care...","categories": [],
         "tags": [],
         "url": "/services/something%20copy%202/",
         "teaser": "/assets/images/BrightonRock.jpg"
       },{
-        "title": "The horses",
-        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
+        "title": "Equine Sheath Clean",
+        "excerpt":"Routine sheath cleaning is very important for the well being and comfort of your gelding. Symptoms of a horse with a bean/dirty sheath can include; bucking, kicking out, cross cantering and swelling through the loins (behind saddle). We reccomend having your gelding cleaned at least every 6 - 12 months...","categories": [],
         "tags": [],
         "url": "/services/something%20copy%203/",
         "teaser": "/assets/images/BrightonRock.jpg"
       },{
-        "title": "The horses",
-        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
+        "title": "Equine Bodywork",
+        "excerpt":"blah blah blah blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah...","categories": [],
         "tags": [],
         "url": "/services/something%20copy%204/",
         "teaser": "/assets/images/BrightonRock.jpg"
       },{
-        "title": "The horses",
-        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
+        "title": "Sale Photos",
+        "excerpt":"blah blah blah blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah...","categories": [],
         "tags": [],
         "url": "/services/something%20copy%205/",
-        "teaser": "/assets/images/BrightonRock.jpg"
+        "teaser": "/assets/images/Cherry1.jpg"
       },{
-        "title": "The horses",
-        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
+        "title": "Riding Lesson",
+        "excerpt":"blah blah blah blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah...","categories": [],
         "tags": [],
         "url": "/services/something%20copy%206/",
         "teaser": "/assets/images/BrightonRock.jpg"
       },{
-        "title": "The horses",
-        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
+        "title": "Schooling",
+        "excerpt":"blah blah blah blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah...","categories": [],
         "tags": [],
         "url": "/services/something%20copy%207/",
-        "teaser": "/assets/images/BrightonRock.jpg"
+        "teaser": "/assets/images/Schooling1.jpg"
       },{
-        "title": "Equissage",
-        "excerpt":"  This text should show on the right of the image   ","categories": [],
+        "title": "Equissage Treatment",
+        "excerpt":"The equissage is a very beneficial tool in addition to regular body work as it helps improve blood circulation which is vital for joint mobility and muscle health. It helps relax your horses muscles promoteing healing and recovery. Whether your horse is a grand prix show jumper or a pleasure...","categories": [],
         "tags": [],
         "url": "/services/something%20copy/",
         "teaser": "/assets/images/Equissage4.jpg"
       },{
-        "title": "The horses",
-        "excerpt":"This is some horse stuff                                                                                                                                This is a sample gallery to go along with this case study.       and some more stuff   ","categories": [],
+        "title": "Sale on behalf",
+        "excerpt":"blah blah blah blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah...","categories": [],
         "tags": [],
         "url": "/services/something/",
         "teaser": "/assets/images/BrightonRock.jpg"

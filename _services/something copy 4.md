@@ -1,26 +1,21 @@
 ---
-title: "The horses"
-excerpt: "These are my horses - ka pow"
+title: "Equine Bodywork"
+layout: single
+classes: wide
+excerpt: ""
 header:
-  image: /assets/images/BrightonRock.jpg
   teaser: /assets/images/BrightonRock.jpg
 sidebar:
-  - title: "Rider"
-gallery:
-  - url: /assets/images/BrightonRock.jpg
-    image_path: assets/images/BrightonRock.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/BrightonRock.jpg
-    image_path: assets/images/BrightonRock.jpg
+  - title: "Services"
+feature_row2:
+  - image_path: /assets/images/Equissage2.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/BrightonRock.jpg
-    image_path: assets/images/BrightonRock.jpg
-    alt: "placeholder image 3"
+    title: "$85 per treatment"
+    excerpt: ''
+    url: "/contact/"
+    btn_label: "Book Now"
+    btn_class: "btn--primary"
 ---
-
-This is some horse stuff
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-and some more stuff
+blah blah blah blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah
+{% include feature_row id="feature_row2" type="left" %}
 

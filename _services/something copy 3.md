@@ -1,26 +1,21 @@
 ---
-title: "The horses"
-excerpt: "These are my horses - ka pow"
+title: "Equine Sheath Clean"
+layout: single
+classes: wide
+excerpt: ""
 header:
-  image: /assets/images/BrightonRock.jpg
   teaser: /assets/images/BrightonRock.jpg
 sidebar:
-  - title: "Rider"
-gallery:
-  - url: /assets/images/BrightonRock.jpg
-    image_path: assets/images/BrightonRock.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/BrightonRock.jpg
-    image_path: assets/images/BrightonRock.jpg
+  - title: "Services"
+feature_row2:
+  - image_path: /assets/images/Equissage2.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/BrightonRock.jpg
-    image_path: assets/images/BrightonRock.jpg
-    alt: "placeholder image 3"
+    title: "$45 per gelding"
+    excerpt: ''
+    url: "/contact/"
+    btn_label: "Book Now"
+    btn_class: "btn--primary"
 ---
 
-This is some horse stuff
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-and some more stuff
-
+Routine sheath cleaning is very important for the well being and comfort of your gelding. Symptoms of a horse with a bean/dirty sheath can include; bucking, kicking out, cross cantering and swelling through the loins (behind saddle). We reccomend having your gelding cleaned at least every 6 - 12 months depending on the horse. Feel free to get in contact with us and book in a session. 
+{% include feature_row id="feature_row2" type="left" %}
