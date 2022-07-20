@@ -3,39 +3,61 @@ permalink: /equines/
 title: "Equines"
 layout: single
 classes: wide
+feature_row:
+  - image_path: /assets/images/Ripple3.jpg
+    alt: "placeholder image 1"
+  - image_path: /assets/images/Ripple1.jpg
+    alt: "placeholder 2"
+  - image_path: /assets/images/Ripple2.jpg
+feature_row2:
+  - image_path: /assets/images/Ron1.jpg
+    alt: "placeholder image 1"
+  - image_path: /assets/images/Ron2.jpg
+    alt: "placeholder 2"
+  - image_path: /assets/images/Ron3.jpg
+feature_row3:
+  - image_path: /assets/images/Capi1.jpg
+    alt: "placeholder image 1"
+  - image_path: /assets/images/Capi3.jpg
+    alt: "placeholder 2"
+  - image_path: /assets/images/Capi2.jpg
+feature_row4:
+  - image_path: /assets/images/Harley1.jpg
+    alt: "placeholder image 1"
+  - image_path: /assets/images/Harley2.jpg
+    alt: "placeholder 2"
+  - image_path: /assets/images/Harley3.jpg
+feature_row5:
+  - image_path: /assets/images/Indi2.jpg
+    alt: "placeholder image 1"
+  - image_path: /assets/images/Indi1.jpg
+    alt: "placeholder 2"
+  - image_path: /assets/images/Indi3.jpg
 ---
-## The Projects
+## Ripple ST (Ripple)
+{% include feature_row %}
 
-**Harley**   -   14hh 2011 Stationbred Gelding by Balaram
-![image](/assets/images/Harley1.JPG){: width="300px" style="float: right; margin-left:1em; "}
-HARLEY HARLEY HARLEY HARLEYHARLEY HARLEYHARLEY HARLEYHARLEY HARLEYHARLEY HARLEYHARLEY HARLEYHARLEY HARLEYHARLEY HARLEYHARLEY HARLEYHARLEY 
+Ripple has been apart of my team since Feburary 2020. He is a 9 year old gelding by Rip Van Winkle out of Tina Temple. During the 2021 season he placed second in the open horse 1.10 at the Hawkes Bay A&P show as well as having his first 1.20 start at series final. He is brave and sharp which makes him so much fun to compete. 
 
-## The Team
+## Brighton Rock (Ronnie)
+{% include feature_row id="feature_row2" %}
 
-**Ripple ST**    -   16.1hh 2013 Thoroughbred Gelding by Rip Van Winkle
+Ronnie has been apart of my team since June 2021. He is a 7 year old stationbred gelding. I originally bought him to produce as a project over winter, but he has exceeded expectations and is staying on the team. He has a suberb jump and great temperment with looks to match. He competed up to 90/1m last season with wins and placings.  
 
-![image](/assets/images/Ripple ST.JPG){: width="300px" style="float: left; margin-right:1em; "}
+## KSE Capio (Capi)
+{% include feature_row id="feature_row3" %}
 
-Ripple has been apart of my team since Feburary 2020. Last season he placed second in the open horse 1.10 at the Hawkes Bay A&P show as well as having his first 1.20 start. I am looking forward to continuing riding him as he is such a genuine, smart jumper. 
+Capi became apart of my team in April 2022. He is a rising 3 year old by Captivate VWNZ out of KSE Riverdance Magic. He is a lovely well put together young horse. Capi already has a great attitude towards learning and loves playing with tarps and balls on the arena. It will be exciting to watch him grow up. He will be started undersaddle in 2023.
 
-**Brighton Rock**   -    16.0hh 2015 Stationbred X Gelding
+## Harley
+{% include feature_row id="feature_row4" %}
 
-![image-left](/assets/images/BrightonRock.jpg){: width="300px" style="float: right; margin-left:1em; "}
+Harley joined us in Februrary 2022. He is a 11 year old gelding by Whittlewood Balaram out of a thoroughbred mare. 
 
-Ronald joined my team in June 2021. I bought him as a project to bring on over winter, but quickly fell in love with his personality. He is currently in his first season of competing and is proving to be a very smart jumper. He has picked up a fair few ribbons throughout the season as he stepped up to competing 1m.
+## Indiana (Indi)
+{% include feature_row id="feature_row5" %}
 
-**KSE Capio**   -    emh 16hh rising 3 year old Captivate VWNZ gelding
+Indi is my first horse and joined us in March 2016. She is a 16 year old mare by Indian Danehill out of Symphius. Throughout the past years Indi and I have learnt so much from each other. She's a very fun ride and loves jumping. Indi is currently leased on site to a lovely young rider. 
 
-![image-left](/assets/images/Capi1.jpg){: width="300px" style="float: left; margin-right:1em; "}
-
-Capi joined the team in April 2022. He is a lovely young horse, already has a great attitude towards learning. It will be exciting to see him grow up. He will be started undersaddle in 2023. BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH 
-
-
-
-**Indiana**     -    15hh 2006 Thoroughbred Mare by Indian Danehill
-
-![image-left](/assets/images/Indiana.PNG){: width="300px" style="float: right; margin-left:1em; "}
-
-Indi was my first horse who joined me in March 2016. Throughout the past years Indi and I have learnt so much from each other. She's very cool and cruisy and has a love for jumping. Indi is currently leased on site to a lovely young rider and enjoys going on adventures and showing another rider the ropes. 
 
 

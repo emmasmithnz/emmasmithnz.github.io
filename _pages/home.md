@@ -1,5 +1,5 @@
 ---
-title: "Emma Smith and her amazing equines"
+title: "Emma Smith NZ"
 layout: splash
 permalink: /
 header:
@@ -8,34 +8,39 @@ header:
   overlay_image: /assets/images/Banner.JPG
   actions:
     - label: "Book a session now"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Emma Smith**](https://unsplash.com)"
+      url: /contact/
+  caption: "Photo credit: [**Emma Smith**]"
 excerpt: "Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: /assets/images/BrightonRock.jpg
+  - image_path: /assets/images/BW2.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Services"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/BrightonRock.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    url: /services/
+    btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/BrightonRock.jpg
-    title: "Placeholder 3"
+  - image_path: /assets/images/homeequines.jpg
+    alt: "placeholder 2"
+    title: "Equines"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: /equines/
+    btn_label: "See More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/homeabout.jpg
+    title: "About"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: /about/
+    btn_label: "See More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/BrightonRock.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    title: "Contact"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/contact/"
+    btn_label: "Contact Emma"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/BrightonRock.jpg
