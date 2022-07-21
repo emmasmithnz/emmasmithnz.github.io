@@ -10,14 +10,14 @@ header:
     - label: "Book a session now"
       url: /contact/
   caption: "Photo credit: [**Emma Smith**]"
-excerpt: "Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin."
+excerpt: "Putting the horses first"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'horses are horses because horses are horses so they are all actaully horses'
 feature_row:
   - image_path: /assets/images/BW2.jpg
     alt: "placeholder image 1"
     title: "Services"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "You can find out more about what sevices."
     url: /services/
     btn_label: "See More"
     btn_class: "btn--primary"
