@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Banner.JPG
+  overlay_image: /assets/images/Banner.jpg
   actions:
     - label: "Book a session now"
       url: /contact/
