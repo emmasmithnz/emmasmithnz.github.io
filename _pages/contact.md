@@ -6,7 +6,7 @@ If you would like to get in contact or keep up to date with Emma:
 
 Email: contact@emmasmith.nz
 
-Instagram: emmasmith.nz
+Instagram: [emmasmith.nz](https://www.instagram.com/emmasmith.nz/?hl=en)
 
 Facebook: Emma Smith NZ
 

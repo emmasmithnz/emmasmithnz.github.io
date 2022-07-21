@@ -17,20 +17,20 @@ feature_row:
   - image_path: /assets/images/BW2.jpg
     alt: "placeholder image 1"
     title: "Services"
-    excerpt: "You can find out more about what sevices."
+    excerpt: "You can find out more about what **sevices** Emma provides and how to book in here."
     url: /services/
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/homeequines.jpg
     alt: "placeholder 2"
     title: "Equines"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Meet the team of horses"
     url: /equines/
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/homeabout.jpg
     title: "About"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Learn more about what Emma stands for and why she does what she does"
     url: /about/
     btn_label: "See More"
     btn_class: "btn--primary"
