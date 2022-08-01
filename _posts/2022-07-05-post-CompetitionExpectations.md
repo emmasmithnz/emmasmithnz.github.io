@@ -11,6 +11,23 @@ tags:
   - standard
 ---
 
-![image](/assets/images/RonWWSJ3.JPG){: width="400px" style="float: right; margin-left:1em; "} 
+![image](/assets/images/Competitionexpectations.jpg){: width="300px" style="float: right; margin-left:1em; "}
 
-HORSE RIDING IS COOL HORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOL
+Far too often I see riders getting frustrated and upset at their ponies and themselves that the show “didn’t go to plan”, when in reality they had unrealistic expectations. These expectations almost always lead to feeling not good enough and dissatisfied with your results.
+
+This is something I struggled with for a long time, but since changing my definition of success I have found shows more enjoyable than ever.
+
+There is always going to be a rider on a flashier horse than yours so instead of comparing your off the track TB to an imported warmblood, and then feeling upset that you didn’t get the winning ribbon, focus on factors inside of your control. 
+
+
+Redefine what success means to you, instead of asking yourself “Did I win the class?” or “Did I jump really big?” consider these other definitions of success;
+
+* Was there something I learned from this show?
+* Was I kind to my horse and gave him a positive experience?
+* Did I make some progress towards my short term or long term goals?
+* Did I have fun?
+* Did I support and encourage other riders?
+* Can I make a plan of what to improve for the next show?
+* Did either my horse or I accomplish something new or challenging?
+
+These are just a few of my definitions of success I use for shows. By changing your definition of success you are likely to feel less nervous around competing because you know that no matter the result you are able to take something away from the day. Whether it was learning something new that you and your horse can do or something to change for the next show you are bound to leave the show feeling much more positive about the experience.

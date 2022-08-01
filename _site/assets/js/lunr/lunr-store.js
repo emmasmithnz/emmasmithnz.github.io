@@ -1,6 +1,6 @@
 var store = [{
         "title": "Post: Competition Expectations",
-        "excerpt":"HORSE RIDING IS COOL HORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE RIDING IS COOLHORSE...","categories": ["Rider"],
+        "excerpt":"Far too often I see riders getting frustrated and upset at their ponies and themselves that the show “didn’t go to plan”, when in reality they had unrealistic expectations. These expectations almost always lead to feeling not good enough and dissatisfied with your results. This is something I struggled with...","categories": ["Rider"],
         "tags": ["Post Formats","readability","standard"],
         "url": "/rider/post-CompetitionExpectations/",
         "teaser": null

@@ -4,11 +4,11 @@ title: "Contact"
 ---
 If you would like to get in contact or keep up to date with Emma:
 
-Email: contact@emmasmith.nz
+Email: [contact@emmasmith.nz](mailto:contact@emmasmith.nz)
 
 Instagram: [emmasmith.nz](https://www.instagram.com/emmasmith.nz/?hl=en)
 
-Facebook: Emma Smith NZ
+Facebook: [Emma Smith NZ](https://www.facebook.com/emmasmith.newzealand)
 
 <!-- Messenger Chat Plugin Code -->
 <div id="fb-root"></div>
