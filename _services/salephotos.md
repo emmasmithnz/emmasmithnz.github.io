@@ -17,5 +17,6 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 blah blah blah blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah
+Please note depending on location a travel fee may apply.
 {% include feature_row id="feature_row2" type="left" %}
 
