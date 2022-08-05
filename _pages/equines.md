@@ -52,7 +52,7 @@ Capi became apart of my team in April 2022. He is a rising 3 year old by Captiva
 ## Harley
 {% include feature_row id="feature_row4" %}
 
-Harley joined us in Februrary 2022. He is a 11 year old gelding by Whittlewood Balaram out of a thoroughbred mare. 
+Harley joined us in Februrary 2022. He is a 11 year old gelding by Whittlewood Balaram out of a thoroughbred mare.  
 
 ## Indiana (Indi)
 {% include feature_row id="feature_row5" %}
