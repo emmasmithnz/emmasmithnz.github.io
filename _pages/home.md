@@ -10,27 +10,27 @@ header:
     - label: "Book a session now"
       url: /contact/
   caption: "Photo credit: [**Emma Smith**]"
-excerpt: "Putting the horses first"
+excerpt: "Putting horses first"
 intro: 
   - excerpt: 'horses are horses because horses are horses so they are all actaully horses'
 feature_row:
   - image_path: /assets/images/BW2.jpg
     alt: "placeholder image 1"
     title: "Services"
-    excerpt: "You can find out more about what **sevices** Emma provides and how to book in here."
+    excerpt: "You can find out more about what **sevices** Emma provides and how to make a booking here."
     url: /services/
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/homeequines.jpg
     alt: "placeholder 2"
     title: "Equines"
-    excerpt: "Meet the team of horses"
+    excerpt: "Meet and learn about Emma's team of horses here"
     url: /equines/
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/homeabout.jpg
     title: "About"
-    excerpt: "Learn more about what Emma stands for and why she does what she does"
+    excerpt: "Learn more about Emma and her plans here"
     url: /about/
     btn_label: "See More"
     btn_class: "btn--primary"

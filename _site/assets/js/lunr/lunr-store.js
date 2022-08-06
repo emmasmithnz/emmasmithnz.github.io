@@ -5,6 +5,12 @@ var store = [{
         "url": "/rider/post-CompetitionExpectations/",
         "teaser": null
       },{
+        "title": "Post: Schooling Structure",
+        "excerpt":"   ","categories": ["Rider"],
+        "tags": ["Post Formats","readability","standard"],
+        "url": "/rider/post-Schooling-Structure/",
+        "teaser": null
+      },{
         "title": "Equine Bodywork",
         "excerpt":"blah blah blah blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah...","categories": [],
         "tags": [],
@@ -35,8 +41,8 @@ var store = [{
         "url": "/services/ridinglesson/",
         "teaser": "/assets/images/BrightonRock.jpg"
       },{
-        "title": "Sale on behalf",
-        "excerpt":"Please note depending on location a travel fee may apply.                                                                                                                       Contact us for a direct quote                                                                                                      Book Now                                        ","categories": [],
+        "title": "Young Horse Preschool",
+        "excerpt":"We also take on young horses (2-4 year olds) to give them a solid foundation to prepare them for being started. This is usually over a period of 2-4 weeks depending on the horse and their needs. Your horse will learn the following skills: Navigate obstacles Wear a rug Basic...","categories": [],
         "tags": [],
         "url": "/services/saleonbehalf/",
         "teaser": "/assets/images/BrightonRock.jpg"
@@ -48,7 +54,7 @@ var store = [{
         "teaser": "/assets/images/Cherry1.jpg"
       },{
         "title": "Schooling",
-        "excerpt":" We have onsite spaces avaiable from November, please get in contact to secure a spot.   We do not currently offer offsite schooling.                                                                                                                       Packages start at $150                                                    Please get in contact for a direct quote                                                   Book Now                                        ","categories": [],
+        "excerpt":"We have onsite spaces avaiable from November, please get in contact to secure a spot. Whether you have a young/green horse or a horse in need of a refresher, we have different packages available to suit you and your equines need. We have a 60x20 all weather arena with full...","categories": [],
         "tags": [],
         "url": "/services/schooling/",
         "teaser": "/assets/images/Schoolingcover.jpg"

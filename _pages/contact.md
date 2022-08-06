@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact"
 ---
-If you would like to get in contact or keep up to date with Emma:
+Feel free to get in contact or keep up to date with Emma here:
 
 Email: [contact@emmasmith.nz](mailto:contact@emmasmith.nz)
 
