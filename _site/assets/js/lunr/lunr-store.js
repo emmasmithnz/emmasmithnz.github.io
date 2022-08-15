@@ -30,7 +30,7 @@ var store = [{
         "teaser": "/assets/images/Equissagecover.jpg"
       },{
         "title": "Holiday Care",
-        "excerpt":"We offer boutique equine care when you need a break or are away on holiday. Our holiday services can include; feeding, rugging, exercising and more all tailored to your equines needs. Feel free to get in contact with us to see what holiday care package is right for you. Please...","categories": [],
+        "excerpt":"We offer boutique equine care when you need a break or are planning a holiday away. Our holiday services include; feeding, rugging, exercising and more all tailored to your equines needs. We travel to you, so there is no added stress of moving your horses. Feel free to get in...","categories": [],
         "tags": [],
         "url": "/services/holidaycare/",
         "teaser": "/assets/images/Holiday1.jpg"
@@ -54,7 +54,7 @@ var store = [{
         "teaser": "/assets/images/Cherry1.jpg"
       },{
         "title": "Schooling",
-        "excerpt":"We have onsite spaces avaiable from November, please get in contact to secure a spot. Whether you have a young/green horse or a horse in need of a refresher, we have different packages available to suit you and your equines need. We have a 60x20 all weather arena with full...","categories": [],
+        "excerpt":"We have onsite spaces avaiable from November, please get in contact to secure a spot. Whether you have a young horse, behavioural problems or a horse in need of a refresher, we have different packages available to suit you and your equines need. We have a 60x20 all weather arena...","categories": [],
         "tags": [],
         "url": "/services/schooling/",
         "teaser": "/assets/images/Schoolingcover.jpg"

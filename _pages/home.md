@@ -7,10 +7,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Banner.jpg
   actions:
-    - label: "Book a session now"
+    - label: "Get in touch here"
       url: /contact/
   caption: "Photo credit: [**Emma Smith**]"
-excerpt: "Putting horses first"
+excerpt: 
 intro: 
   - excerpt: 'horses are horses because horses are horses so they are all actaully horses'
 feature_row:
@@ -24,13 +24,13 @@ feature_row:
   - image_path: /assets/images/homeequines.jpg
     alt: "placeholder 2"
     title: "Equines"
-    excerpt: "Meet and learn about Emma's team of horses here"
+    excerpt: "Meet and learn about Emma's team of horses and see what they get up to here."
     url: /equines/
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/homeabout.jpg
     title: "About"
-    excerpt: "Learn more about Emma and her plans here"
+    excerpt: "Learn more about Emma's story and what she gets up to on her journey here."
     url: /about/
     btn_label: "See More"
     btn_class: "btn--primary"
@@ -38,16 +38,16 @@ feature_row2:
   - image_path: /assets/images/BrightonRock.jpg
     alt: "placeholder image 2"
     title: "Contact"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Emma aims to proivde help and support for local riders to achieve their goals with their horses. If you have any questions or would like to make a booking feel free to get in contact with Emma here.'
     url: "/contact/"
     btn_label: "Contact Emma"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/BrightonRock.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+    title: "Recent Blog Post"
+    excerpt: 'Check out Emma's most recent blog post here on competition expectations and learn how she manages to find the positive side of things even when it seems nothing is going to plan.'
+    url: "/rider/post-CompetitionExpectations/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:

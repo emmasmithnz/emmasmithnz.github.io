@@ -11,7 +11,7 @@ feature_row2:
   - image_path: /assets/images/Equissage2.jpg
     alt: "placeholder image 2"
     title: "Contact us for a direct quote"
-    excerpt: ''
+    excerpt: 'Packages starting from $150PW'
     url: "/contact/"
     btn_label: "Book Now"
     btn_class: "btn--primary"
@@ -26,6 +26,5 @@ We also take on young horses (2-4 year olds) to give them a solid foundation to 
 - Pick up all feet
 
 We have spaces available from November, please get in contact to secure your place.
-Please note depending on location a travel fee may apply.
 {% include feature_row id="feature_row2" type="left" %}
 

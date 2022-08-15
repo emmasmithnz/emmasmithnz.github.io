@@ -37,22 +37,22 @@ feature_row5:
 ## Ripple ST (Ripple)
 {% include feature_row %}
 
-Ripple has been apart of my team since Feburary 2020. He is a 9 year old gelding by Rip Van Winkle out of Tina Temple. During the 2021 season he placed second in the open horse 1.10 at the Hawkes Bay A&P show as well as having his first 1.20 start at series final. He is brave and sharp which makes him so much fun to compete. 
+Ripple has been part of my team since Feburary 2020. He is a 9 year old gelding by Rip Van Winkle out of Tina Temple. During the 2021 season he placed second in the open horse 1.10 at the Hawkes Bay A&P show as well as having his first 1.20 start at series final. He is brave and sharp which makes him so much fun to compete. He's sure  does like to keep me on my toes, but I love his attitude towards his work and his huge personality.   
 
 ## Brighton Rock (Ronnie)
 {% include feature_row id="feature_row2" %}
 
-Ronnie has been apart of my team since June 2021. He is a 7 year old stationbred gelding. I originally bought him to produce as a project over winter, but he has exceeded expectations and is staying on the team. He has a suberb jump and great temperment with looks to match. He competed up to 90/1m last season with wins and placings.  
+Ronnie has been part of my team since June 2021. He is a 7 year old stationbred gelding. I originally bought him to produce as a project over winter, but he exceeded all my expectations and is staying on the team. He has a suberb jump and great temperment with looks to match. He competed up to 90/1m last season with wins and placings.  
 
 ## KSE Capio (Capi)
 {% include feature_row id="feature_row3" %}
 
-Capi became apart of my team in April 2022. He is a rising 3 year old by Captivate VWNZ out of KSE Riverdance Magic. He is a lovely well put together young horse. Capi already has a great attitude towards learning and loves playing with tarps and balls on the arena. It will be exciting to watch him grow up. He will be started undersaddle in 2023.
+Capi became part of my team in April 2022. He is a rising 3 year old by Captivate VWNZ out of KSE Riverdance Magic. He is a lovely well put together young horse with huge potential for the future. Capi already has a great attitude towards learning and loves playing with tarps and balls on the arena. It will be exciting to watch him grow up. He will be started undersaddle in 2023.
 
 ## Harley
 {% include feature_row id="feature_row4" %}
 
-Harley joined us in Februrary 2022. He is a 11 year old gelding by Whittlewood Balaram out of a thoroughbred mare.  
+Harley joined us in Februrary 2022. He is an 11 year old gelding by Whittlewood Balaram out of a thoroughbred mare. Harley didn't have the easiest start to life so we worked through some of his past trauma and body issues. He used to be anxious to be tacked up and was unhappy in his ridden work, but now he can walk, trot, canter and jump undersaddle. Harley loves his life an enjoys adventuring over the farm and being ridden over obstacles.    
 
 ## Indiana (Indi)
 {% include feature_row id="feature_row5" %}
