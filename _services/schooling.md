@@ -10,7 +10,7 @@ sidebar:
 feature_row2:
   - image_path: /assets/images/Cherry2.jpg
     alt: "placeholder image 2"
-    title: "Packages start at $150PW"
+    title: "Packages start at $180PW"
     excerpt: 'Please get in contact for a direct quote or more information'
     url: "/contact/"
     btn_label: "Book Now"
@@ -19,7 +19,7 @@ feature_row2:
 ![image](/assets/images/Schooling3.JPG){: width="400px" style="float: right; margin-left:1em; "}
 We have onsite spaces avaiable from November, please get in contact to secure a spot.
 
-Whether you have a young/green horse or a horse in need of a refresher, we have different packages available to suit you and your equines need. We have a 60x20 all weather arena with full set of jumps, an obstacle paddock, farm riding and river access. 
+Whether you have a young horse, behavioural problems or a horse in need of a refresher, we have different packages available to suit you and your equines need. We have a 60x20 all weather arena with full set of jumps, individual paddocking, an obstacle course, farm riding and river access. 
 
 Here are some of the skills we can teach your horse/pony:
 - Jump undersaddle
