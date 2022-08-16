@@ -46,7 +46,7 @@ feature_row3:
   - image_path: /assets/images/BrightonRock.jpg
     alt: "placeholder image 2"
     title: "Recent Blog Post"
-    excerpt: 'Check out Emma's most recent blog post here on competition expectations and learn how she manages to find the positive side of things even when it seems nothing is going to plan.'
+    excerpt: 'Check out Emma''s most recent blog post here on competition expectations and learn how she manages to find the positive side of things even when it seems nothing is going to plan.'
     url: "/rider/post-CompetitionExpectations/"
     btn_label: "Read More"
     btn_class: "btn--primary"
