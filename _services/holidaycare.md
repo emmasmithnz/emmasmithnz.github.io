@@ -10,7 +10,7 @@ sidebar:
 feature_row2:
   - image_path: /assets/images/Holiday3.jpg
     alt: "placeholder image 2"
-    title: "Contact us for a quote"
+    title: "Contact us for a quote below"
     excerpt: ''
     url: "/contact/"
     btn_label: "Book Now"

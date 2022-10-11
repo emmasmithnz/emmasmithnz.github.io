@@ -10,7 +10,7 @@ sidebar:
 feature_row2:
   - image_path: /assets/images/sheathclean.jpg
     alt: "placeholder image 2"
-    title: "$45 per gelding"
+    title: "Find out more or make a booking below"
     excerpt: ''
     url: "/contact/"
     btn_label: "Book Now"

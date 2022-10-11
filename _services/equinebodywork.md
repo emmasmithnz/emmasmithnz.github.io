@@ -10,7 +10,7 @@ sidebar:
 feature_row2:
   - image_path: /assets/images/BW2.jpg
     alt: "placeholder image 2"
-    title: "$85 per treatment"
+    title: "Find out more or book in a treatment below"
     excerpt: ''
     url: "/contact/"
     btn_label: "Book Now"

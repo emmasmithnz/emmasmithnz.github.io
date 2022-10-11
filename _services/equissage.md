@@ -20,7 +20,7 @@ gallery:
 feature_row2:
   - image_path: /assets/images/Equissage2.jpg
     alt: "placeholder image 2"
-    title: "$40 for 25 minute session"
+    title: "Find out more or book in a treatment below"
     excerpt: ''
     url: "/contact/"
     btn_label: "Book Now"
