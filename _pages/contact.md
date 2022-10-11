@@ -2,13 +2,15 @@
 permalink: /contact/
 title: "Contact"
 ---
-Feel free to get in contact or keep up to date with Emma here:
+Feel free to keep up to date or get in contact with Emma here:
 
 Email: [contact@emmasmith.nz](mailto:contact@emmasmith.nz)
 
 Instagram: [emmasmith.nz](https://www.instagram.com/emmasmith.nz/?hl=en)
 
 Facebook: [Emma Smith NZ](https://www.facebook.com/emmasmith.newzealand)
+
+Emma's services are available to the wider Wellington Region
 
 <!-- Messenger Chat Plugin Code -->
 <div id="fb-root"></div>

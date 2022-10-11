@@ -1,5 +1,5 @@
 ---
-title: "Emma Smith NZ"
+title: "Emma Smith NZ" 
 layout: splash
 permalink: /
 header:
@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Emma Smith**]"
 excerpt: 
 intro: 
-  - excerpt: 'horses are horses because horses are horses so they are all actaully horses'
+  - excerpt: '"Helping you and your horses achieve and succeed"'
 feature_row:
   - image_path: /assets/images/BW2.jpg
     alt: "placeholder image 1"
@@ -29,9 +29,9 @@ feature_row:
     btn_label: "See More"
     btn_class: "btn--primary"
   - image_path: /assets/images/homeabout.jpg
-    title: "About"
-    excerpt: "Learn more about Emma's story and what she gets up to on her journey here."
-    url: /about/
+    title: "Blog"
+    excerpt: "Learn more about Emma's thoughts and ideas about all things equine here."
+    url: /posts/
     btn_label: "See More"
     btn_class: "btn--primary"
 feature_row2:
@@ -43,19 +43,11 @@ feature_row2:
     btn_label: "Contact Emma"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/BrightonRock.jpg
+  - image_path: /assets/images/Ripple2.jpg
     alt: "placeholder image 2"
     title: "Recent Blog Post"
     excerpt: 'Check out Emma''s most recent blog post here on competition expectations and learn how she manages to find the positive side of things even when it seems nothing is going to plan.'
     url: "/rider/post-CompetitionExpectations/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/BrightonRock.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

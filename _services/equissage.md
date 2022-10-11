@@ -20,17 +20,19 @@ gallery:
 feature_row2:
   - image_path: /assets/images/Equissage2.jpg
     alt: "placeholder image 2"
-    title: "$40 for full 25 minute session"
+    title: "$40 for 25 minute session"
     excerpt: ''
     url: "/contact/"
     btn_label: "Book Now"
     btn_class: "btn--primary"
 ---
 ![image](/assets/images/Equissage1.JPG){: width="300px" style="float: right; margin-left:1em; "} 
-The equissage is a very beneficial tool in addition to regular body work as it helps improve blood circulation which is vital for joint mobility and muscle health. It helps relax your horses muscles promoteing healing and recovery. Whether your horse is a grand prix show jumper or a school pony, the equissage can help your horse feel their best. Feel free to get in contact with us and book in a session. 
-
-Our equissage is also available at some horse shows and events to help your horse feel and perform at their best while away from home. 
-
+The equissage is a very beneficial tool in addition to regular body work as it helps improve blood circulation which is vital for joint mobility and muscle health. The equissage helps to relax your horse's muscles promoting healing and recovery. Whether your horse is a high level competition horse or a school pony, the equissage can help your horse feel their best.
+ 
+Get in touch today for more information or to book in a session.
+ 
+Our equissage is also available at some horse shows and events to help your horse feel and perform at their best while away from home.
+ 
 Please note depending on location a travel fee may apply.
 
 {% include feature_row id="feature_row2" type="left" %}

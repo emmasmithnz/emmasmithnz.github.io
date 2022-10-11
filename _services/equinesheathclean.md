@@ -17,6 +17,7 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
-Routine sheath cleaning is very important for the well being and comfort of your gelding. Symptoms of a horse with a bean/dirty sheath can include; bucking, kicking out, cross cantering and swelling through the loins (behind saddle). We reccomend having your gelding cleaned at least every 6 - 12 months depending on the horse. Feel free to get in contact with us and book in a session. 
+Routine sheath cleaning is very important for the well being and comfort of your gelding. Symptoms of a horse with a bean/dirty sheath can include; bucking, kicking out, cross cantering and swelling through the loins (behind saddle). We recommend having your gelding cleaned at least every 6 - 12 months depending on the horse. Feel free to get in contact with us and book in a session. 
+
 Please note depending on location a travel fee may apply.
 {% include feature_row id="feature_row2" type="left" %}
