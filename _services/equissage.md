@@ -33,6 +33,5 @@ Get in touch today for more information or to book in a session.
  
 Our equissage is also available at some horse shows and events to help your horse feel and perform at their best while away from home.
  
-Please note depending on location a travel fee may apply.
 
 {% include feature_row id="feature_row2" type="left" %}
