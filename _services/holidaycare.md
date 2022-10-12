@@ -2,7 +2,7 @@
 title: "Holiday Care"
 layout: single
 classes: wide
-excerpt: ""
+excerpt: "You can find out more about our holiday care for your equines, or receive a quote here."
 header:
   teaser: /assets/images/Holiday1.jpg
 sidebar:
@@ -20,8 +20,6 @@ feature_row2:
 We offer equine care when you need a break or are planning a holiday away. Our holiday services can include; feeding, rugging, exercising, all tailored to your equines needs.  
 
 We travel to you, so there is no added stress of moving your horses. Feel free to get in contact with us to see what holiday care package is right for you. 
-
-Please note depending on location a travel fee may apply.
 
 {% include feature_row id="feature_row2" type="left" %}
 

@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Equine Bodywork",
-        "excerpt":"blah blah blah blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah...","categories": [],
+        "excerpt":"Using a combination of stretches, acupressure, adjustments and massage to help release tension in your horse. Allowing them to perform and feel at their best. During the treatment the horses body, tack, and work load will be assessed to provide a treatment specific to your horse. Signs your horse is...","categories": [],
         "tags": [],
         "url": "/services/equinebodywork/",
         "teaser": "/assets/images/BWcover.jpg"

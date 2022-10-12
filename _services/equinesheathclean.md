@@ -2,7 +2,7 @@
 title: "Equine Sheath Clean"
 layout: single
 classes: wide
-excerpt: ""
+excerpt: "You can find out more about the importance of sheath cleaning and how it benefits your geldings, or book in a session here."
 header:
   teaser: /assets/images/sheathclean.jpg
 sidebar:
