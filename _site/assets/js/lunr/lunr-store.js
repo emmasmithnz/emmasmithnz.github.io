@@ -5,11 +5,11 @@ var store = [{
         "url": "/rider/post-CompetitionExpectations/",
         "teaser": null
       },{
-        "title": "Schooling",
-        "excerpt":"Emma has experience working with all different ages and stages of horses. Whether you have a green 4yo or a 15yo with behavoural problems, Emma can help. She looks at all factors that may affect your horse, saddle/tack fit, environment and wellbeing to help you and your horse work through...","categories": [],
+        "title": "Equine Body Work",
+        "excerpt":"  BODY WORK                                                                                                                       Find out more or make a booking today                                                                                                      Book Now                                        ","categories": [],
         "tags": [],
         "url": "/services/equinebodywork/",
-        "teaser": "/assets/images/Cherry4.jpg"
+        "teaser": "/assets/images/BW2.jpg"
       },{
         "title": "Equine Sheath Clean",
         "excerpt":"Routine sheath cleaning is very important for the well being and comfort of your gelding. Symptoms of a horse with a bean/dirty sheath can include; bucking, kicking out, cross cantering and swelling through the loins (behind saddle). We recommend having your gelding cleaned at least every 6 - 12 months...","categories": [],
@@ -23,9 +23,9 @@ var store = [{
         "url": "/services/equissage/",
         "teaser": "/assets/images/Equissagecover.jpg"
       },{
-        "title": "Holiday Care",
-        "excerpt":"We offer equine care when you need a break or are planning a holiday away. Our holiday services can include; feeding, rugging, exercising, all tailored to your equines needs. We travel to you, so there is no added stress of moving your horses. Feel free to get in contact with...","categories": [],
+        "title": "Schooling",
+        "excerpt":"Emma has experience working with all different ages and stages of horses. Whether you have a green 4yo or a 15yo with behavoural problems, Emma can help. She looks at all factors that may affect your horse, saddle/tack fit, environment and wellbeing to help you and your horse work through...","categories": [],
         "tags": [],
-        "url": "/services/holidaycare/",
-        "teaser": "/assets/images/Holiday1.jpg"
+        "url": "/services/schooling/",
+        "teaser": "/assets/images/Kiwi1.jpg"
       }]

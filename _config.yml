@@ -64,7 +64,7 @@ author:
   bio    : ""
   links:
     - label: "Facebook"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/emmasmith.newzealand"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"

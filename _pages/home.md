@@ -28,7 +28,7 @@ feature_row:
     url: /equines/
     btn_label: "See More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/homeabout.jpg
+  - image_path: /assets/images/Capi2.jpg
     title: "Blog"
     excerpt: "Learn more about Emma's thoughts and ideas about all things equine here."
     url: /posts/

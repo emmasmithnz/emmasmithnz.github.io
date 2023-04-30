@@ -44,7 +44,7 @@ Ripple has been part of my team since February 2020. He is a 9 year old gelding 
 
 Ronnie has been part of my team since June 2021. He is a 7 year old stationbred gelding. I originally bought him to produce as a project over winter, but he exceeded all my expectations and is staying on the team. He has a superb jump and great temperament with looks to match. He competed up to 90/1m last season with wins and placings. I look forward to seeing him step up over the next couple of seasons.   
 
-## KSE Capio (Capi)
+## Capio (Capi)
 {% include feature_row id="feature_row3" %}
 
 Capi became part of my team in April 2022. He is a rising 3 year old by Captivate VWNZ out of KSE Riverdance Magic. He is a lovely well put together young horse with huge potential for the future. Capi already has a great attitude towards learning and loves playing with tarps and balls on the arena. It will be exciting to watch him grow up. He will be started under saddle in 2023.
