@@ -75,6 +75,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/emmasmith.nz"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/emmasmith.newzealand"
 
 defaults:
   # _posts
