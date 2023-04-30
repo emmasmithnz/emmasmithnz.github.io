@@ -5,11 +5,11 @@ var store = [{
         "url": "/rider/post-CompetitionExpectations/",
         "teaser": null
       },{
-        "title": "Equine Bodywork",
-        "excerpt":"Using a combination of stretches, acupressure, adjustments and massage to help release tension in your horse. Allowing them to perform and feel at their best. During the treatment the horses body, tack, and work load will be assessed to provide a treatment specific to your horse. Signs your horse is...","categories": [],
+        "title": "Schooling",
+        "excerpt":"Emma has experience working with all different ages and stages of horses. Whether you have a green 4yo or a 15yo with behavoural problems, Emma can help. She looks at all factors that may affect your horse, saddle/tack fit, environment and wellbeing to help you and your horse work through...","categories": [],
         "tags": [],
         "url": "/services/equinebodywork/",
-        "teaser": "/assets/images/BWcover.jpg"
+        "teaser": "/assets/images/Cherry4.jpg"
       },{
         "title": "Equine Sheath Clean",
         "excerpt":"Routine sheath cleaning is very important for the well being and comfort of your gelding. Symptoms of a horse with a bean/dirty sheath can include; bucking, kicking out, cross cantering and swelling through the loins (behind saddle). We recommend having your gelding cleaned at least every 6 - 12 months...","categories": [],

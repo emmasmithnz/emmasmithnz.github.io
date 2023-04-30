@@ -2,7 +2,7 @@
 title: "Holiday Care"
 layout: single
 classes: wide
-excerpt: "You can find out more about our holiday care for your equines, or receive a quote here."
+excerpt: "You can find out more about our holiday care for your equine/s, or receive a quote here."
 header:
   teaser: /assets/images/Holiday1.jpg
 sidebar:

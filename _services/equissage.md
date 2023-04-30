@@ -2,7 +2,7 @@
 title: "Equissage Treatment"
 layout: single
 classes: wide
-excerpt: "You can find out more about our equissage treatments and how they benefit your horses, or book in a session here."
+excerpt: "You can find out more about our equissage treatments and how it benefits your horse, or book in a session here."
 header:
   teaser: /assets/images/Equissagecover.jpg
 sidebar:

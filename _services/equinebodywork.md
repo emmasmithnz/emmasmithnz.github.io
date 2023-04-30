@@ -1,27 +1,26 @@
 ---
-title: "Equine Bodywork"
+title: "Schooling"
 layout: single
 classes: wide
-excerpt: "You can find out more about our bodywork treatments and how they benefit your horses, and book in a session here."
+excerpt: "You can find out more about our schooling options and find one that suits you and your horse here."
 header:
-  teaser: /assets/images/BWcover.jpg
+  teaser: /assets/images/Cherry4.jpg
 sidebar:
   - title: "Services"
 feature_row2:
   - image_path: /assets/images/BW2.jpg
     alt: "placeholder image 2"
-    title: "Find out more or book in a treatment below"
+    title: "Find out more or book in a schooling session below"
     excerpt: ''
     url: "/contact/"
     btn_label: "Book Now"
     btn_class: "btn--primary"
 ---
 ![image](/assets/images/BW3.JPG){: width="300px" style="float: right; margin-left:1em; "} 
-Using a combination of stretches, acupressure, adjustments and massage to help release tension in your horse. Allowing them to perform and feel at their best.
+Emma has experience working with all different ages and stages of horses. Whether you have a green 4yo or a 15yo with behavoural problems, Emma can help. She looks at all factors that may affect your horse, saddle/tack fit, environment and wellbeing to help you and your horse work through any issues. 
 
-During the treatment the horses body, tack, and work load will be assessed to provide a treatment specific to your horse.
+Each schooling session is tailored to what you and your horse needs. Both onsite and offsite schooling is currently available. Please get in touch if you would like to secure a place. 
 
-Signs your horse is in need of body work can include; unwanted changes in ridden behaviour(bucking, rearing ect), spookiness, stiffness, change in performance, discomfort being tacked up or brushed, and more. 
 
 {% include feature_row id="feature_row2" type="left" %}
 
