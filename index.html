@@ -279,7 +279,121 @@ header h1 {
 }
     }
 }
+/* CLIENT REVIEWS SECTION */
 
+.reviews-section {
+    background-color: #f4f4f4;
+    padding: 65px 20px;
+    text-align: center;
+}
+
+.reviews-section h2 {
+    color: #263e39;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.reviews-intro {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.review-card {
+    background-color: #263e39;
+    color: white;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 45px 35px;
+    border-radius: 15px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+}
+
+.review-stars {
+    color: #d4b477;
+    font-size: 23px;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+}
+
+.review-text {
+    font-size: 21px;
+    line-height: 1.8;
+    font-style: italic;
+    margin: 20px 0;
+}
+
+.review-author {
+    font-size: 16px;
+    color: #d6ded9;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.review-navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-top: 30px;
+}
+
+.review-navigation button {
+    background: transparent;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.review-navigation button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.review-navigation button:focus-visible {
+    outline: 2px solid white;
+    outline-offset: 3px;
+}
+
+.review-navigation button:disabled {
+    opacity: 0.3;
+    cursor: default;
+}
+
+#review-counter {
+    color: #d6ded9;
+    font-size: 14px;
+}
+
+/* MOBILE REVIEWS LAYOUT */
+
+@media screen and (max-width: 600px) {
+
+    .reviews-section {
+        padding: 40px 15px;
+    }
+
+    .reviews-section h2 {
+        font-size: 26px;
+    }
+
+    .review-card {
+        padding: 30px 20px;
+    }
+
+    .review-text {
+        font-size: 17px;
+        line-height: 1.7;
+    }
+
+    .review-navigation {
+        gap: 20px;
+    }
+}
     </style>
 </head>
 <body>
@@ -339,7 +453,39 @@ header h1 {
             <p>Based in the Wellington Region.</p> 
             <p>Please note depending on location a travel fee may apply, please get in contact if you would like a quote.</p>
         </section>
+<!-- Client Reviews Section -->
+<section id="reviews" class="reviews-section">
 
+    <h2>Kind Words From Clients</h2>
+    <p class="reviews-intro">
+        Experiences shared by horse owners
+    </p>
+
+    <div class="review-card">
+
+        <div class="review-stars">★★★★★</div>
+
+        <p class="review-text" id="review-text">
+            Your first client review will appear here.
+        </p>
+
+        <p class="review-author" id="review-author">
+            — Client Name
+        </p>
+
+        <div class="review-navigation">
+            <button type="button" id="review-prev"
+                    aria-label="Previous review">❮</button>
+
+            <span id="review-counter">1 / 1</span>
+
+            <button type="button" id="review-next"
+                    aria-label="Next review">❯</button>
+        </div>
+
+    </div>
+
+</section>
         <section>
             <h2>Book in Now!</h2>
             <p>You can book your horse in by txt, call, or email.</p>
@@ -383,5 +529,57 @@ header h1 {
             </a>
         </div>
     </footer>
+    <script>
+    // ADD YOUR CLIENT REVIEWS HERE
+    const clientReviews = [
+        {
+            text: "Your first client review goes here.",
+            author: "Client Name"
+        },
+        {
+            text: "Your second client review goes here.",
+            author: "Another Client"
+        }
+    ];
+
+    let currentReview = 0;
+
+    const reviewText = document.getElementById("review-text");
+    const reviewAuthor = document.getElementById("review-author");
+    const reviewCounter = document.getElementById("review-counter");
+    const prevButton = document.getElementById("review-prev");
+    const nextButton = document.getElementById("review-next");
+
+    function showReview() {
+        const review = clientReviews[currentReview];
+
+        reviewText.textContent = "“" + review.text + "”";
+        reviewAuthor.textContent = "— " + review.author;
+
+        reviewCounter.textContent =
+            (currentReview + 1) + " / " + clientReviews.length;
+
+        const hasMultipleReviews = clientReviews.length > 1;
+        prevButton.disabled = !hasMultipleReviews;
+        nextButton.disabled = !hasMultipleReviews;
+    }
+
+    prevButton.addEventListener("click", function () {
+        currentReview =
+            (currentReview - 1 + clientReviews.length)
+            % clientReviews.length;
+
+        showReview();
+    });
+
+    nextButton.addEventListener("click", function () {
+        currentReview =
+            (currentReview + 1) % clientReviews.length;
+
+        showReview();
+    });
+
+    showReview();
+</script>
 </body>
 </html>
