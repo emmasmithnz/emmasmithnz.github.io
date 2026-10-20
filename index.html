@@ -226,6 +226,34 @@
             z-index: 1;
             border-radius: 50%;
         }
+        
+        /* Mobile phone layout */
+
+        @media (max-width: 600px) {
+
+            header {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                padding: 25px 10px;
+
+            }
+
+            header .logo {
+                position: static;
+                width: 70px;
+                height: auto;
+                margin-bottom: 10px;
+
+            }
+
+            header h1 {
+                font-size: clamp(30px, 8vw, 42px);
+                line-height: 1.2;
+                margin: 10px 0;
+            }
+        }
+ 
     </style>
 </head>
 <body>
